@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [" ir", "ici", "i  "],
+  "key": {
+    "i": { "item": "minecraft:iron_ingot" },
+    "r": { "item": "minecraft:redstone" },
+    "c": { "item": "minecraft:copper_ingot" }
+  },
+  "result": { "id": "droneartisan:remote", "count": 1 }
+}

@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "droneartisan:block/drone_base" }
+  }
+}
